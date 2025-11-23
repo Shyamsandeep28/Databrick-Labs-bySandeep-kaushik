@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f4e499b-ecbc-4db9-8d97-887d5997adf7" />
+
+
 # 🚀 Databricks Hands‑On Labs – Complete Beginner to Advanced Series
 
 ### **Author:  Sandeep Kumar Sharma**
